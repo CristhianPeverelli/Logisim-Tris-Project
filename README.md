@@ -15,7 +15,7 @@ Keep in mind that this isn't the best circuit you can get simulating a Tris game
 
 
 
-Note that the "main" component where you can play the game isn't the completed circuit, but it's the union of different custom made circuit (just to get a clearer view of the full structure, and not a mix of incomprehensible cables) like this one.
+Note that the "main" component where you can play the game isn't the completed circuit, but it's the union of different custom made circuit (just to get a clearer view of the full structure, and not a mix of incomprehensible cables) like this one. 
 
 ![image](https://user-images.githubusercontent.com/74914029/195185423-db49e39e-fce0-4520-aefc-fdc70439dbbb.png)
 
